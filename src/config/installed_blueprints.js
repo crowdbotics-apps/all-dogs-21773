@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'Camera152386', human_name: 'Camera', access_route: 'Camera152386', icon: 'camera'},
 { name: 'EmailAuth152385', human_name: 'Email Auth', access_route: 'EmailAuth152385', icon: 'envelope-o'},
 { name: 'UserProfile152363', human_name: 'User Profile', access_route: 'UserProfile152363'},
 { name: 'Settings152361', human_name: 'Settings', access_route: 'Settings152361'},
